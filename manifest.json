@@ -1,0 +1,9 @@
+{
+    "name": "Lebensmittel",
+    "short_name": "Lebensmittel",
+    "theme_color": "#224422",
+    "background_color": "#224422",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }

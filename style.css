@@ -1,0 +1,24 @@
+body{
+    background-color: #224422;
+    color: #00FFFF;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+button{
+    background-color: #00FFFF;
+    color: #224422;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
+    background-color: #00FFFF;
+    color: #224422;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 30px; 
+}
